@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SatoruCODE
+- 👀 I’m interested in keyboards, programming and general PCs.
+- 🌱 I’m currently learning how to print("Hello world!")
+- 💞️ I’m looking to collaborate on larger projects such as coding Discord bots and APIs.
+- 📫 You can contact me through my Discord - sduF#7111
